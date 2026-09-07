@@ -1,0 +1,66 @@
+# ==============================================================================
+# Robots.txt for Lakeview Hilltop Homestay
+# Website: https://lakeviewhilltophomestay.com/
+# Location: Deolo, Kalimpong, West Bengal, India
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /dist/
+Disallow: /node_modules/
+Disallow: /src/
+
+# Major Search Engines
+User-agent: Googlebot
+Allow: /
+Allow: /images/
+Allow: /thumbnail.jpeg
+Allow: /logo-web.png
+
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /thumbnail.jpeg
+Allow: /logo-web.png
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# AI Crawlers & LLM Search Agents (Allow for AI Overviews, Perplexity, ChatGPT Search, Claude citations)
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Cohere-ai
+Allow: /
+
+# Canonical Sitemap & Host
+Host: https://lakeviewhilltophomestay.com
+Sitemap: https://lakeviewhilltophomestay.com/sitemap.xml

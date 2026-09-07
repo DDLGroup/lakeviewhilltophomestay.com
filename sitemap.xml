@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- 1. Homepage -->
+  <url>
+    <loc>https://lakeviewhilltophomestay.com/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/thumbnail.jpeg</image:loc>
+      <image:title>Lakeview Hilltop Homestay in Deolo Kalimpong</image:title>
+      <image:caption>Panoramic hilltop homestay overview with Kanchenjunga mountain horizon in Deolo, Kalimpong.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/slider-1.jpg</image:loc>
+      <image:title>Golden Kanchenjunga Sunrise View</image:title>
+      <image:caption>First rays of morning dawn over Himalayan snow peaks viewed from Lakeview Hilltop Homestay.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/slider-3.jpg</image:loc>
+      <image:title>Starlit Bonfire and Barbecue Lounge</image:title>
+      <image:caption>Cozy evening campfire and BBQ under the stars at Lakeview Hilltop Homestay.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/room-1.jpg</image:loc>
+      <image:title>Deluxe Wooden Bedroom</image:title>
+      <image:caption>Warm floral bedding and wooden cottage bedroom in Deolo, Kalimpong.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/homestay/night-exterior-lights-1.jpg</image:loc>
+      <image:title>Homestay Night Illumination</image:title>
+      <image:caption>Glowing architectural night lighting at Lakeview Hilltop Homestay.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 2. Rooms & Suites Page -->
+  <url>
+    <loc>https://lakeviewhilltophomestay.com/rooms.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/room-1.jpg</image:loc>
+      <image:title>Deluxe Mountain View Bedroom</image:title>
+      <image:caption>Double bedroom with attached geyser bathroom, high-speed WiFi, and panoramic hill view.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/room-2.jpg</image:loc>
+      <image:title>Family Quad Bedroom Suite</image:title>
+      <image:caption>Spacious quadruple family bedroom configuration for groups and families in Kalimpong.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/room-3.jpg</image:loc>
+      <image:title>Cozy Wooden Cottage Double Room</image:title>
+      <image:caption>Traditional Himalayan wooden paneling and peaceful ambiance.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/slider-2.jpg</image:loc>
+      <image:title>Pine Paneled Mountain Suite</image:title>
+      <image:caption>Luxury pine suite overlooking snow-capped Kanchenjunga peaks.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 3. Photo Gallery Page -->
+  <url>
+    <loc>https://lakeviewhilltophomestay.com/gallery.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/homestay/himalayan-mountain-view.jpg</image:loc>
+      <image:title>Himalayan Mountain Peaks from Room Window</image:title>
+      <image:caption>Kanchenjunga horizon captured directly from bedroom window.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/homestay/corridor-ambient-lights.jpg</image:loc>
+      <image:title>Scenic Outdoor Corridor at Night</image:title>
+      <image:caption>Warm lights along the open balcony corridor overlooking Deolo valleys.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/homestay/corridor-balcony-day.jpg</image:loc>
+      <image:title>Sunlit Valley Balcony Deck</image:title>
+      <image:caption>Fresh pine forest mountain air and expansive Kalimpong valley views.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/images/homestay/homestay-night-glow-1.jpg</image:loc>
+      <image:title>Lakeview Hilltop Under the Stars</image:title>
+      <image:caption>Deolo hill night sanctuary illuminated against dark mountain silhouette.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 4. About Us Page -->
+  <url>
+    <loc>https://lakeviewhilltophomestay.com/about.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/thumbnail.jpeg</image:loc>
+      <image:title>Lakeview Hilltop Homestay Hospitality</image:title>
+      <image:caption>Authentic Kalimpong hospitality hosted by Anirban and Bachhu Roy.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- 5. Contact & Booking Page -->
+  <url>
+    <loc>https://lakeviewhilltophomestay.com/contact.html</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://lakeviewhilltophomestay.com/logo-web.png</image:loc>
+      <image:title>Lakeview Hilltop Homestay Official Logo</image:title>
+      <image:caption>Direct booking and contact portal for Lakeview Hilltop Homestay, Deolo, Kalimpong.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
