@@ -1,0 +1,27 @@
+# ==============================================================================
+# Security Headers for Netlify & Cloudflare Pages
+# Website: https://lakeviewhilltophomestay.com/
+# ==============================================================================
+
+/*
+  # Enforce HTTPS with long duration & preload
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+  # Prevent MIME type sniffing
+  X-Content-Type-Options: nosniff
+
+  # Clickjacking defense: only allow framing from same origin
+  X-Frame-Options: SAMEORIGIN
+
+  # Referrer policy: send origin only on cross-origin requests
+  Referrer-Policy: strict-origin-when-cross-origin
+
+  # Restrict dangerous browser device features
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), vr=(), accelerometer=(), gyroscope=()
+
+  # Cross-Origin isolation protections
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+  Cross-Origin-Resource-Policy: same-origin
+
+  # Content Security Policy
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https:; frame-src 'self' https://www.google.com https://maps.google.com; connect-src 'self'; base-uri 'self'; form-action 'self' https://wa.me;
